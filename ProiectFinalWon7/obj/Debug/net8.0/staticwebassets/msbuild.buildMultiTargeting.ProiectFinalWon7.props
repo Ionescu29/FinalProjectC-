@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProiectFinalWon7.props" />
+</Project>
